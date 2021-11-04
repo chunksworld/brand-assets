@@ -1,5 +1,5 @@
-## Chunks World
-# Brand Assets
+# Chunks World
+## Brand Assets
 
 Official Brand Assets for Chunks World.
 
